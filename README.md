@@ -2,7 +2,7 @@
 
 ## JavaScript
 
-![Preview]()
+![Preview](https://github.com/rmotafreitas/superchat/blob/master/image.png)
 
 ### App built with:
 
